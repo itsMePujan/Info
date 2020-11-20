@@ -10,7 +10,9 @@
 2. Internet Connection 
 
 # will be added soon 
-1. Find my Iphone info 
+1. Find my Iphone status info 
+2. Device storage info 
+3. Device colour
 
 # ScreenShot 
 ![Screenshot](screenshot.PNG)
